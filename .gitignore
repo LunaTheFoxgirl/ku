@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+ku.so
+ku.dylib
+ku.dll
+ku.a
+ku.lib
+ku-test-*
+*.exe
+*.o
+*.obj
+*.lst
+ku

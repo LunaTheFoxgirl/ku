@@ -1,0 +1,12 @@
+{
+	"name": "ku",
+	"authors": [
+		"Clipsey"
+	],
+	"dependencies": {
+		"pp": "~master"
+	},
+	"description": "Sudoku game which only runs as root",
+	"copyright": "Copyright © 2018, Clipsey",
+	"license": "GPL2"
+}
