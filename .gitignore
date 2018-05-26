@@ -13,4 +13,5 @@ ku-test-*
 *.obj
 *.lst
 ku
+-source/ku
 libs/
